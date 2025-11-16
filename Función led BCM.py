@@ -11,5 +11,5 @@ def lbc(pin, modo):
     GPIO.output(pin, True)
     times.sleep(1)
     GPIO.output(pin, False)
-    time,sleep(1)
+    time.sleep(1)
 lbc(18, GPIO.BCM)
