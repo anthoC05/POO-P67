@@ -1,3 +1,4 @@
+#codigo 3 Encendido led con boton en raspberry con puerto BCM
 import RPi.GPIO as GPIO
 import time
 
